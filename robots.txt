@@ -1,4 +1,3 @@
-# Sitemaps
 User-agent: Googlebot
 Allow: /
 
