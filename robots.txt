@@ -1,10 +1,5 @@
-# OJUYS at Home — crawl directives for all search engines
-# Primary sitemap index — submit this to Google Search Console
-Sitemap: https://www.ojuys.com/sitemap-index.xml
-
 User-agent: Googlebot
 Allow: /
-Crawl-delay: 0
 
 User-agent: Googlebot-Image
 Allow: /
@@ -14,9 +9,5 @@ Allow: /
 
 User-agent: *
 Allow: /
-Disallow: /assets/*.js
-Disallow: /assets/*.css
 
-# Individual sitemaps (also indexed in sitemap-index.xml)
-Sitemap: https://www.ojuys.com/sitemap.xml
-Sitemap: https://www.ojuys.com/sitemap-images.xml
+Sitemap: https://www.ojuys.com/sitemap-index.xml
