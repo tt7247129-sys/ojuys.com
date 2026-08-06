@@ -1,144 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- Homepage — highest priority -->
   <url>
     <loc>https://www.ojuys.com/</loc>
     <changefreq>weekly</changefreq>
+    <lastmod>2026-08-06</lastmod>
     <priority>1.0</priority>
-    <lastmod>2026-08-03</lastmod>
   </url>
 
+  <!-- Category pages — core content -->
   <url>
     <loc>https://www.ojuys.com/aging</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
     <lastmod>2026-08-06</lastmod>
+    <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://www.ojuys.com/bathroom</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
     <lastmod>2026-08-06</lastmod>
+    <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://www.ojuys.com/bedroom</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
     <lastmod>2026-08-06</lastmod>
+    <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://www.ojuys.com/construction</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
     <lastmod>2026-08-06</lastmod>
+    <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://www.ojuys.com/embodied</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
     <lastmod>2026-08-06</lastmod>
+    <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://www.ojuys.com/europe</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
     <lastmod>2026-08-06</lastmod>
+    <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://www.ojuys.com/global</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
     <lastmod>2026-08-06</lastmod>
+    <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://www.ojuys.com/indoor</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
     <lastmod>2026-08-06</lastmod>
+    <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://www.ojuys.com/kitchen</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
     <lastmod>2026-08-06</lastmod>
+    <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://www.ojuys.com/kitchennew</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
     <lastmod>2026-08-06</lastmod>
+    <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://www.ojuys.com/living</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
     <lastmod>2026-08-06</lastmod>
+    <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://www.ojuys.com/smart</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
     <lastmod>2026-08-06</lastmod>
+    <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://www.ojuys.com/solar</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
     <lastmod>2026-08-06</lastmod>
+    <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://www.ojuys.com/sustainable</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
     <lastmod>2026-08-06</lastmod>
+    <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://www.ojuys.com/updated</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
     <lastmod>2026-08-06</lastmod>
+    <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://www.ojuys.com/water</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
     <lastmod>2026-08-06</lastmod>
+    <priority>0.8</priority>
   </url>
 
+  <!-- Static information pages -->
   <url>
     <loc>https://www.ojuys.com/about</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
     <lastmod>2026-08-06</lastmod>
+    <priority>0.5</priority>
   </url>
 
   <url>
     <loc>https://www.ojuys.com/privacy</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
     <lastmod>2026-08-06</lastmod>
+    <priority>0.3</priority>
   </url>
 
   <url>
     <loc>https://www.ojuys.com/dmca</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
     <lastmod>2026-08-06</lastmod>
+    <priority>0.3</priority>
   </url>
 
 </urlset>
