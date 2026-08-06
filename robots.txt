@@ -8,3 +8,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://www.ojuys.com/sitemap.xml
+Sitemap: https://www.ojuys.com/sitemap-images.xml
